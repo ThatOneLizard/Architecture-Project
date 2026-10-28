@@ -1,5 +1,3 @@
-Holding this here just in case it gets deleted from github somehow:
-
 (Status report 3 from third check in)
 This week, I took pictures for a dataset (about 72 images) and ran them 
 through a website called roboflow to gather the proper dimensions for 
