@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['twenty sided dice']
+
+roboflow:
+  workspace: nicos-workspace-3e4sp
+  project: architecture-detection-project
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/nicos-workspace-3e4sp/architecture-detection-project/1
