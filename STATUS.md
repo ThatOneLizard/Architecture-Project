@@ -1,3 +1,10 @@
+(status report 4 from check in 4)
+I did not accomplish much this week. I was preoccupied with studying 
+for two exams and homework assignments for other classes. This week's 
+commit includes the files created from the training test last week. I 
+plan to do more this week in terms of training and actual code work 
+since I don't have to worry about other classes as much.
+
 (Status report 3 from third check in)
 This week, I took pictures for a dataset (about 72 images) and ran them 
 through a website called roboflow to gather the proper dimensions for 
