@@ -10,8 +10,6 @@ This project will involve using an Oz64 dev board along with a camera to run an 
 
 11-4-2026 (Check in #4 (week 4)): This week's submission is the files created during last week's training session. I was preoccupied with exams and did not make much progress.
 
-Weeks 5 check point (probably around 11-13-26): In the next week or so I plan to run train the model a bit more, and then work on the code that will allow it to actually run detections via my camera.
+Check in #5 (: Haven't had the most amount of time to complete the project over the last few weeks, but have put several hours over the course of the last few days trying to finish up proper model training. The model is now in a state of working 95% of the time with proper lighting. Camera now detects dice and usually does not recognize other objects as dice. Most recent data set trained the model with roughly 8600 images. (See link in dataset_link.md for most recent dataset.)
 
-Weeks 6 (probably 11-20-26): AI model will be running on the board and code will be in testing (revising bugs and fine tuning issues. Spending more time training the AI as needed.)
-
-Weeks 7-8 (between 11-23-26 and 11-30-26): Working out final bugs and fine tuning in order to be done by the end of the semester
+In the coming week until the next (and final?) checkpoint, I plan to move the model to the board and revise bugs in code. Hopefully hooking it up to a button to run in this time as well.
