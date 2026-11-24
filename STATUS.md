@@ -1,3 +1,9 @@
+(Status report 5 from check in 5)
+Haven't had the most amount of time to complete the project over the last 
+few weeks, but have put several hours over the last few days trying to 
+finish up proper model training. The model now works 95% of the time with 
+good lighting. Camera now detects dice.
+
 (status report 4 from check in 4)
 I did not accomplish much this week. I was preoccupied with studying 
 for two exams and homework assignments for other classes. This week's 
